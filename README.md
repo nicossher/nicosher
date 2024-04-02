@@ -1,5 +1,9 @@
 <h1 align="center">Hola 👋, Soy Nicholas Sher</h1>
-<h3 align="center">Un Desarrollador Web y Estudiante de Ingeniería en Sistemas de Buenos Aires, Argentina</h3>
+<h3 align="center">My name is Nicholas, and I'm a passionate programmer based in Argentina, and currently a Software Engineering student at UTN (National Technological University of Buenos Aires, Argentina).</h3>
+
+<h3 align="left">Currently looking for an internship to expand my experience in the areas of AI, machine learning, blockchain development, backend/frontend developer. I am a fast learner and dedicated to quality and success, seeking a company that supports my professional evolution and allows for continual growth</h3>
+
+<h3 align="left">My experience spans a wide range of web technologies, from HTML5, CSS3, JavaScript to React.js, Astro, Firebase, Tailwind CSS and Bootstrap5, among other CSS libraries. Additionally, my university education has led me to work with C and C++ languages, expanding my perspective and skills in the programming field.</h3>
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
