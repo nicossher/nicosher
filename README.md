@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Soy Nicholas Sher</h1>
-<h3 align="center">My name is Nicholas, and I'm a passionate programmer based in Argentina, and currently a Software Engineering student at UTN (National Technological University of Buenos Aires, Argentina).</h3>
+<h1 align="center">Hi 👋, I'm Nicholas Sher</h1>
+<h3 align="left"I'm a passionate programmer based in Argentina, and currently a Software Engineering student at UTN (National Technological University of Buenos Aires, Argentina).</h3>
 
 <h3 align="left">Currently looking for an internship to expand my experience in the areas of AI, machine learning, blockchain development, backend/frontend developer. I am a fast learner and dedicated to quality and success, seeking a company that supports my professional evolution and allows for continual growth</h3>
 
